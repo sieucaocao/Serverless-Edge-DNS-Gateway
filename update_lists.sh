@@ -31,8 +31,8 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
 https://raw.githubusercontent.com/sieucaocao/repository.scc/refs/heads/main/blocklist.txt \
 | extract_domains > "$BLOCK_TMP"
