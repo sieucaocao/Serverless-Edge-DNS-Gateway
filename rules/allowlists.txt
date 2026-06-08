@@ -18,6 +18,7 @@ vlxx.bz
 vlxx.ms
 click.mz.simba.taobao.com
 click.tz.simba.taobao.com
+preview.page.link
 googletagmanager.com
 imasdk.googleapis.com
 analytics.google.com
