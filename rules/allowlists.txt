@@ -614,7 +614,6 @@ otnprd11.samsungcloudsolution.net
 api.meta.ndmdhs.com
 update.biv.sony.tv
 api.erabu.sony.tv
-googletagmanager.com
 imasdk.googleapis.com
 analytics.google.com
 app.appsflyer.com
