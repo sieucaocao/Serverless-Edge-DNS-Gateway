@@ -615,6 +615,7 @@ api.meta.ndmdhs.com
 update.biv.sony.tv
 api.erabu.sony.tv
 imasdk.googleapis.com
+googletagmanager.com
 analytics.google.com
 app.appsflyer.com
 app.adjust.com
